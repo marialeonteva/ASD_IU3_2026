@@ -6,20 +6,19 @@
 
 package ru.bmstu.lab01;
 
-//Находит минимальный и максимальный элементы целочисленного массива.
+
 public final class Task1 {
 
     //n > 1
     private static final int MIN_SIZE = 2;
 
     //n < 10^5
-    private static final int MAX_SIZE = 100_000;
+    private static final int MAX_SIZE = 100000;
 
     private Task1() {
         // утилитарный класс
     }
 
-    //Возвращает пару минимум, максимум для заданного массива.
     public static int[] findMinMax(int[] array) {
         validate(array);
 
