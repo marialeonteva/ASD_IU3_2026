@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 import org.junit.jupiter.api.Test;
 
 
-//Тесты для Task2
+//Тесты для "Задача 2. Индекс первого вхождения"
 class Task2Test {
 
     @Test

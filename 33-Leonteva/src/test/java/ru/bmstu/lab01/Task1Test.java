@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 import org.junit.jupiter.api.Test;
 
 
-//Тесты для Task1
+//Тесты для "Задача 1. Максимум и минимум"
 class Task1Test {
 
     @Test
